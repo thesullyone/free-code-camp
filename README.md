@@ -1,0 +1,1 @@
+projects created following recommended freeCodeCamp coursework
